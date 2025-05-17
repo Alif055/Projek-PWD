@@ -59,7 +59,7 @@ include 'koneksi.php';
 <div class="hero">
   <div>
     <h1>Selamat Datang di Rental Kamera </h1>
-    <p class="lead mt-3">pppppppppppppppp</p>
+    <p class="lead mt-3">Capture Every Moment • Rent a Camera</p>
   </div>
 </div>
 
