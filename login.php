@@ -118,6 +118,9 @@ if (isset($_POST["login"])) {
                             <button type="submit" class="btn btn-primary tombol-login mb-3" name="login">
                                 <i class="fas fa-sign-in-alt me-2"></i>Login
                             </button>
+                            <div class="text-center">
+                    <p>Belum punya akun? <a href="regist.php" class="text-decoration-none">Sign up disini</a></p>
+                </div>
                         </form>
                     </div>
                 </div>
