@@ -74,7 +74,7 @@ include 'koneksi.php';
     ?>
     <div class="col-md-4 mb-4">
       <div class="card camera-card shadow">
-      <a href="detail.php?id=<?= $row['id']; ?>">
+      <a href="beli.php?id=<?= $row['id']; ?>">
         <img src="images/<?= $row['image']; ?>" class="card-img-top" alt="<?= $row['model']; ?>">
       </a>
     <div class="card-body">
