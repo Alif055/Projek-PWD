@@ -41,6 +41,7 @@ include 'koneksi.php';
       <span>Rental Kamera</span>
     </a>
     <ul class="navbar-nav ms-auto">
+    <li class="nav-item"><a class="nav-link" href="#">Halo, <?= $_SESSION['akun']['username']; ?></a></li>
   <li class="nav-item"><a class="nav-link active" href="index.php">Beranda</a></li>
   <li class="nav-item"><a class="nav-link" href="keranjang.php">Keranjang</a></li>
 
